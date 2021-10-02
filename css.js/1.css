@@ -342,7 +342,7 @@ body
 {
 	-webkit-transition-delay: 0s;
 	transition-delay: 0s;
-	background-image: url("1.png");
+	background-image: url("./jingxuan/1.png");
 }
 .el:nth-child(2)
 {
@@ -375,7 +375,7 @@ body
 {
 	-webkit-transition-delay: 0.1s;
 	transition-delay: 0.1s;
-	background-image: url("2.png");
+	background-image: url("./jingxuan/2.png");
 }
 .el:nth-child(3)
 {
@@ -408,7 +408,7 @@ body
 {
 	-webkit-transition-delay: 0.2s;
 	transition-delay: 0.2s;
-	background-image: url("3.png");
+	background-image: url("./jingxuan/3.png");
 }
 .el:nth-child(4)
 {
@@ -441,7 +441,7 @@ body
 {
 	-webkit-transition-delay: 0.3s;
 	transition-delay: 0.3s;
-	background-image: url("4.png");
+	background-image: url("./jingxuan/4.png");
 }
 .el:nth-child(5)
 {
@@ -474,7 +474,7 @@ body
 {
 	-webkit-transition-delay: 0.4s;
 	transition-delay: 0.4s;
-	background-image: url("5.png");
+	background-image: url("./jingxuan/5.png");
 }
 .el:hover .el__bg:after
 {
